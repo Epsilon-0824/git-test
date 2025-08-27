@@ -1,0 +1,5 @@
+# Windows environment
+.env
+
+# Compileed class file
+.class
