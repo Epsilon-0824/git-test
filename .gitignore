@@ -2,4 +2,4 @@
 .env
 
 # Compileed class file
-.class
+*git.class
